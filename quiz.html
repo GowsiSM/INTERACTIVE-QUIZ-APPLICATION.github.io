@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<main>
+
+     <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Pastel Quiz App</title>
+          <link rel="stylesheet" href="quiz.css">
+     </head>
+
+     <body>
+          <div class="quiz-container">
+               <div id="progress-indicator" style="font-family: cursive;">Question 1/5</div>
+               <article class="question-box">
+                    <p id="question-text" style="font-size: large;">Loading question...</p>
+               </article>
+               <div class="options-box" id="options-container"></div>
+               <button id="submit-button"><b>Submit</b></button>
+               <div id="timer"><b>Time Left: </b><span id="time-left">15</span>s</div>
+               <div id="result"></div>
+          </div>
+          <script src="quiz.js"></script>
+     </body>
+</main>
+<footer>
+</footer>
+
+</html>
