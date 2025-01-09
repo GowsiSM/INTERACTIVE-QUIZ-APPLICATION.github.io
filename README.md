@@ -20,5 +20,4 @@ The Quiz Application is an interactive and visually engaging web-based quiz appl
 **OUTPUT**:
 The application provides users with a responsive and visually appealing interface, complete with dynamic question changes, real-time timer updates, and an interactive scoring system. Upon completion of the quiz, users see their final score, making it a fully functional quiz web app.
 
-https://github.com/GowsiSM/INTERACTIVE-QUIZ-APPLICATION.github.io/blob/main/questions.PNG
-https://github.com/GowsiSM/INTERACTIVE-QUIZ-APPLICATION.github.io/blob/main/score.PNG
+https://github.com/user-attachments/assets/97729192-9f90-4f97-93c4-668ba30fbd6a
